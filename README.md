@@ -27,6 +27,7 @@
 
 ```
 Python 3.10+
+
 cryptography >= 42.0
 ```
 
@@ -70,4 +71,4 @@ Navigate with **↑ ↓ arrow keys**, confirm with **Enter**, go back with **Esc
 
 ## License
 
-MIT © [Moncif ZouhaiR]
+MIT © Moncif ZouhaiR 2026
